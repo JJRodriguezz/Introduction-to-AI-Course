@@ -5,3 +5,5 @@ tensorflow==2.18.0
 gymnasium==1.1.1
 numpy==2.0.2
 matplotlib==3.10.1
+opencv_contrib_python==4.12.0.88
+scikit-image==0.25.2
